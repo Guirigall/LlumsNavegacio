@@ -1,0 +1,36 @@
+{
+  "id": "./",
+  "name": "Farol · Luces de navegación",
+  "short_name": "Farol",
+  "description": "Consulta y practica las luces de navegación RIPA, también sin conexión.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f4ef",
+  "theme_color": "#0c202a",
+  "categories": [
+    "education",
+    "navigation"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ]
+}
