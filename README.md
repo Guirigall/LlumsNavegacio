@@ -40,3 +40,17 @@ El progreso se guarda localmente; no se sincroniza entre dispositivos y se elimi
 - `.nojekyll`: publicación estática.
 
 Contenido didáctico simplificado: no sustituye al RIPA, la vigilancia ni la valoración del riesgo de abordaje.
+
+## Contenido del PER incorporado
+
+Esta versión tiene 116 fichas de luces nocturnas, 20 de marcas diurnas y 27 de reglas y excepciones. Incluye la cobertura del apartado UT 6.3 (reglas 20, 21 y 23–31), con variantes por eslora, arrancada, fondeo y operación, y enlaces a las reglas en el BOE.
+
+No existe un número oficial cerrado de dibujos del examen. Las posiciones son esquemáticas; las blancas intermedias de ciertos remolques se calculan según sus dimensiones y se explican en las fichas. La regla 31 se estudia como concepto porque no prescribe un patrón exclusivo de colores. La app no es un banco oficial de exámenes ni cubre otras materias del PER. No incorpora la regla 22 ni las señales adicionales de los anexos I, II y III, excluidos del temario.
+
+En práctica puedes elegir luces, marcas o reglas. Se conservan las vistas sin orientación indicada y una respuesta compatible entre cuatro. Las otras interpretaciones se explican después de responder. Algunas fichas son equivalentes al observarlas desde ciertos ángulos.
+
+Fuentes:
+- Temario PER: https://www.boe.es/buscar/act.php?id=BOE-A-2014-10344#aii
+- RIPA: https://www.boe.es/buscar/act.php?id=BOE-A-1977-15605#partec
+
+Validación: 972 casos de práctica; cuatro opciones distintas y una compatible, sectores de luces, marcas y puntuación. La revisión de cobertura no sustituye al estudio del texto oficial.
