@@ -1,6 +1,6 @@
 # Farol · PWA para GitHub Pages
 
-Consulta de luces de navegación y práctica desde ocho direcciones, sin pistas de orientación. Instalable en Android y utilizable sin conexión tras la primera carga completa. El código y los estilos están dentro de index.html.
+Consulta de luces de navegación y práctica únicamente desde proa y desde popa, sin pistas de orientación. Instalable en Android y utilizable sin conexión tras la primera carga completa. El código y los estilos están dentro de index.html.
 
 ## Publicar sin compilar
 
@@ -47,10 +47,10 @@ Esta versión tiene 116 fichas de luces nocturnas, 20 de marcas diurnas y 27 de 
 
 No existe un número oficial cerrado de dibujos del examen. Las posiciones son esquemáticas; las blancas intermedias de ciertos remolques se calculan según sus dimensiones y se explican en las fichas. La regla 31 se estudia como concepto porque no prescribe un patrón exclusivo de colores. La app no es un banco oficial de exámenes ni cubre otras materias del PER. No incorpora la regla 22 ni las señales adicionales de los anexos I, II y III, excluidos del temario.
 
-En práctica puedes elegir luces, marcas o reglas. Se conservan las vistas sin orientación indicada y una respuesta compatible entre cuatro. Las otras interpretaciones se explican después de responder. Algunas fichas son equivalentes al observarlas desde ciertos ángulos.
+En práctica puedes elegir luces, marcas o reglas. Las preguntas de luces utilizan exclusivamente vistas de proa (0°) y popa (180°), sin orientación indicada; no se generan vistas laterales ni oblicuas. La consulta conserva su selector de vistas. Se conservan las vistas sin orientación indicada y una respuesta compatible entre cuatro. Las otras interpretaciones se explican después de responder. Algunas fichas son equivalentes al observarlas desde ciertos ángulos.
 
 Fuentes:
 - Temario PER: https://www.boe.es/buscar/act.php?id=BOE-A-2014-10344#aii
 - RIPA: https://www.boe.es/buscar/act.php?id=BOE-A-1977-15605#partec
 
-Validación: 972 casos de práctica; cuatro opciones distintas y una compatible, sectores de luces, marcas y puntuación. La revisión de cobertura no sustituye al estudio del texto oficial.
+Validación de esta versión: ejecuta `node tests/practice.cjs`; comprueba las preguntas de proa y popa, cuatro opciones distintas y una compatible, sectores de luces, marcas y puntuación. La revisión de cobertura no sustituye al estudio del texto oficial.
