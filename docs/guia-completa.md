@@ -14,7 +14,7 @@ Consulta de luces de navegación y práctica únicamente desde proa y desde popa
 4. En el repositorio, ve a **Settings → Pages**.
 5. En **Build and deployment → Source**, selecciona **Deploy from a branch**.
 6. Elige **main** y **/(root)**; pulsa **Save**.
-7. Espera a que GitHub muestre el enlace publicado. Normalmente será `https://TU-USUARIO.github.io/farol/`.
+7. Espera a que GitHub muestre el enlace publicado. Normalmente será `https://guirigall.github.io/LlumsNavegacio/`.
 
 Las rutas son relativas: también funciona si eliges otro nombre de repositorio. No necesitas Node.js, npm, servidor propio, claves ni compilación. Incluye `.nojekyll` si tu método de subida permite archivos con punto inicial; esta aplicación no depende de Jekyll.
 
