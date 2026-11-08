@@ -1,6 +1,6 @@
 {
   "repository": "LlumsNavegacio",
-  "sourceCommit": "b001716041bc7ba9b1e358f565adf27d7ce6edf3",
+  "sourceCommit": "8f0d3ac9a9c7ece2fb89a36b4524cf1005d9729d",
   "url": "https://guirigall.github.io/LlumsNavegacio/",
   "screenshots": [
     {
@@ -22,6 +22,5 @@
       "pageErrors": []
     }
   ],
-  "publishedStatus": null,
-  "publishedError": "Cannot read properties of undefined (reading 'get')"
+  "publishedStatus": 200
 }
