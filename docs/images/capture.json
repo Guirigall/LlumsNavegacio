@@ -1,0 +1,27 @@
+{
+  "repository": "LlumsNavegacio",
+  "sourceCommit": "b001716041bc7ba9b1e358f565adf27d7ce6edf3",
+  "url": "https://guirigall.github.io/LlumsNavegacio/",
+  "screenshots": [
+    {
+      "name": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 1050
+      },
+      "title": "Farol · Luces de navegación",
+      "pageErrors": []
+    },
+    {
+      "name": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "title": "Farol · Luces de navegación",
+      "pageErrors": []
+    }
+  ],
+  "publishedStatus": null,
+  "publishedError": "Cannot read properties of undefined (reading 'get')"
+}
