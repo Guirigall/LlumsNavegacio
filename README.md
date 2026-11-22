@@ -107,3 +107,11 @@ node tests/practice.cjs
 ```
 
 Les captures es generen amb Chromium a partir del codi real del repositori, en contextos sense dades personals. Es poden renovar a **Actions → Captures del README → Run workflow**. Més detalls a [la guia completa](docs/guia-completa.md).
+
+## Llicència / Licencia / License
+
+Aquest projecte es distribueix sota la [llicència MIT](LICENSE).
+
+Este proyecto se distribuye bajo la [licencia MIT](LICENSE).
+
+This project is distributed under the [MIT License](LICENSE).
